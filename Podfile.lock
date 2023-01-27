@@ -1,0 +1,22 @@
+PODS:
+  - ImageScrollView (1.9.3)
+  - SDWebImage (5.13.2):
+    - SDWebImage/Core (= 5.13.2)
+  - SDWebImage/Core (5.13.2)
+
+DEPENDENCIES:
+  - ImageScrollView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - ImageScrollView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  ImageScrollView: d3ce8371e0d44299b2b638410db45387e18aa83f
+  SDWebImage: 72f86271a6f3139cc7e4a89220946489d4b9a866
+
+PODFILE CHECKSUM: f10caf1e1f95f16da635eaf3ca400863ca9d9eaf
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_RijksKit_RijksKitUITests {
+  umbrella header "Pods-RijksKit-RijksKitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
